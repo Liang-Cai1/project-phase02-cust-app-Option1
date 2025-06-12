@@ -59,7 +59,7 @@ export function App(params) {
     setFormObject(blankCustomer);
   }
 
-let passvariables = {
+let pvars = {
     mode: mode,
     handleInputChange: handleInputChange,
     formObject: formObject,
@@ -75,7 +75,7 @@ return (
       formObject={formObject}
       handleListClick={handleListClick}
     />
-    <CustomerAddUpdateForm {...passvariables}/>
+    <CustomerAddUpdateForm {...pvars}/>
   </div>
 );
 
