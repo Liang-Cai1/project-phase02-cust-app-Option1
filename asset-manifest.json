@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/project-phase02-cust-app-Option1/static/css/main.1c9b3e01.css",
+    "main.js": "/project-phase02-cust-app-Option1/static/js/main.978949d9.js",
+    "index.html": "/project-phase02-cust-app-Option1/index.html",
+    "main.1c9b3e01.css.map": "/project-phase02-cust-app-Option1/static/css/main.1c9b3e01.css.map",
+    "main.978949d9.js.map": "/project-phase02-cust-app-Option1/static/js/main.978949d9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1c9b3e01.css",
+    "static/js/main.978949d9.js"
+  ]
+}
